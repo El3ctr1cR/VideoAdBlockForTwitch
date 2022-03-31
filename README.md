@@ -20,12 +20,6 @@ The original author of this extension is "saucettv". This extension will always 
 - Click `Load unpacked Extension`
 - Navigate to the extracted folder from the ZIP Archive and select that folder.
 
-# To do
-
-- ~~Migrating to Manifest v3 (Chrome)~~ ✔
-- Publishing to the Chrome Webstore - 🕐 currently in review
-- Publishing to the Edge Webstore - 🕐 currently in review
-
 # Credits
 - [@saucettv](https://github.com/saucettv) (original Author)
 - [@mikirobles](https://github.com/mikirobles) (removed Donation/Amazon stuff)
