@@ -5,7 +5,7 @@ It is recommended to use this extension along with UBlock Origin.
 
 Sourcecode: https://github.com/El3ctr1cR/VideoAdBlockForTwitch
 
-The original author of this extension is "saucettv". This extension will always stay donation- and refferal-link free.
+The original author of this extension is "saucettv".
 
 # Installation Steps
 
